@@ -21,15 +21,3 @@ A comprehensive collection of numerical analysis, audio signal processing, and p
 
 - **MATLAB** (R2018b or newer) or **GNU Octave** (v5.0+)
 
-## Quick Start
-
-1. Open MATLAB/Octave inside the root directory.
-2. Load all subdirectories into your working path:
-   ```matlab
-   addpath(genpath('.'));
-
-    Test audio synthesis or trajectory modeling scripts directly from their module folders.
-
-License
-
-MIT License
